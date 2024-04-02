@@ -32,3 +32,6 @@ git commit -m "initial commit"
 
 git log
 git log --oneline
+
+
+$ git branch -d test

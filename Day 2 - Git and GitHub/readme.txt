@@ -35,3 +35,10 @@ git log --oneline
 
 
 $ git branch -d test
+
+
+# connect to the remote Repository
+git remote add origin [remote_repo_url]
+git branch -M main
+git remote -v
+git push -u origin main(Once)
